@@ -21,7 +21,7 @@ I would like to be able to play rock/paper/scissors
 
 # Instruction
 
-$ git clone git@github.com:[USERNAME]/rps-challenge.git . <br>
+$ git clone git@github.com:vanals/rps-challenge.git . <br>
 $ cd rps-challenge <br>
 $ bundle <br>
 $ rackup -p [PORT_NUMBER] <br>
